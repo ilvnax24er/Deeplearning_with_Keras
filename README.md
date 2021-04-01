@@ -2,6 +2,7 @@
 ### 1. Basic Model
 * [MLP, CNN, RNN](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/Basic)
 * [Y-Network](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/Basic)
+* ResNet
 
 ### 2. GAN
 * [DCGAN](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/GAN/DCGAN)
