@@ -1,10 +1,10 @@
 # Deeplearning_with_Keras
 ### 1. Basic Model
-* MLP, CNN, RNN
-* Y-Network
+* [MLP, CNN, RNN](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/Basic)
+* [Y-Network](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/Basic)
 
 ### 2. GAN
-* DCGAN
+* [DCGAN](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/GAN/DCGAN)
 * CGAN
 
 
