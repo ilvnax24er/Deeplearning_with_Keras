@@ -1,6 +1,13 @@
 # Deeplearning_with_Keras
 ### 1. Basic Model
 * MLP, CNN, RNN
+* Y-Network
+
+### 2. GAN
+* DCGAN
+* CGAN
+
+
 # Reference
 ## GAN
 1. [Ian Goodfellow. NIPs 2016 Tutorial: Generative Adversarial Networks. arXiv parprint arXiv:1701.00160, 2016](https://arxiv.org/pdf/1701.00160.pdf)
