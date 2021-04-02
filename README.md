@@ -8,6 +8,10 @@
 * [DCGAN](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/GAN/DCGAN)
 * CGAN
 
+### 3. Autoencoder
+* Basic
+* LSTM Autoencoder
+
 
 # Reference
 ## GAN
