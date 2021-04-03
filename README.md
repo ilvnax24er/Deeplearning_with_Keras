@@ -11,9 +11,16 @@
 ### 3. [Autoencoder](https://github.com/ilvnax24er/Deeplearning_with_Keras/tree/master/AE)
 * Basic
 * LSTM Autoencoder
+* LSTM Autoencoder for Anomaly Detection
 
 
 # Reference
 ## GAN
 1. [Ian Goodfellow. NIPs 2016 Tutorial: Generative Adversarial Networks. arXiv parprint arXiv:1701.00160, 2016](https://arxiv.org/pdf/1701.00160.pdf)
 2. [Alec Raford, Luke Metz, and Soumith Chintala. Unsupervised Representation Learning with Deep Convolutional Generativa Adversarial Networks. arXiv preprint arXiv:1511.06434, 2015](https://arxiv.org/pdf/1511.06434.pdf)
+
+## Autoencoder
+1. [Extreme Rare Event Classification using Autoencoders in Keras
+](https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098)
+2. [LSTM Autoencoder for Extreme Rare Event Classification in Keras
+](https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb)
